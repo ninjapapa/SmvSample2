@@ -4,7 +4,7 @@ Sample project using SMV
 # Training Tasks
 1. Learn basic Git opertions
   * Clone this project
-  * Create an issue for this task 
+  * Create an "issue" for this task (can be done by clicking "issue" tab on the main page of the repository) 
   * Make some changes on this readme file on your local project dir, commit the change, and push
   * Close the issue for this task. All the following tasks need to have an "issue" created 
 2. Follow [Smv User Guide - Installation](https://github.com/TresAmigosSD/SMV/blob/master/docs/user/smv_install.md) to setup SMV
